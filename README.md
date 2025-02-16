@@ -20,10 +20,10 @@
   - Explicit – Whether the track has explicit lyrics (0 or 1).
   - released date - show the date when the movie is relased.
 # Libraries 
-  1.base64 : This library is used to encode the client ID and secret into a base64 string for authentication with the Spotify API.
-  2.requests : requests library for to send the request to the server.
-  3.Pandas : is used for data manipulation and analysis.
-  4.time : Pandas is used for data manipulation and analysis.
+  - base64 : This library is used to encode the client ID and secret into a base64 string for authentication with the Spotify API.
+   - requests : requests library for to send the request to the server.
+   - Pandas : is used for data manipulation and analysis.
+    - time : Pandas is used for data manipulation and analysis.
 # Steps perform for Data Fetching
   1. Importing libraries.
   2. Authentication : client_id,client_secret
